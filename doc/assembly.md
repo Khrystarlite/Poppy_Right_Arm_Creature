@@ -11,7 +11,10 @@ For building a Poppy right Arm, you will need:
 * 1x [TTL cable](http://www.generationrobots.com/en/401739-3p-cable-set-bcs-3p01-for-dynamixel-servo-motors.html?search_query=mx+cable&results=336)
 * 1x small electronic board (see the [electronic section](electronic.md))
 * 1x [Power Supply 12V - 5A] (http://www.trossenrobotics.com/p/power-supply-12vdc-5a.aspx)
-* 
+* the 3D printed parts: [STL] (ingresar pagina web)
 * 1x [OLLO Pulley-L](http://www.generationrobots.com/en/401871-ollo-pulley-l-gray-5pcs.html?search_query=OLLO&results=23) and their rivets
 * 1x [OLLO Tool](http://www.generationrobots.com/en/401872-ollo-tool.html)
 
+## Assembling your robot
+
+First for assambly the poppy right arm we can use poppy basic arms [Doc] (https://github.com/poppy-project/Poppy-basic-arms/blob/master/doc/right_arm_assembly_instructions.md)
