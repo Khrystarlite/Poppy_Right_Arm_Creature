@@ -26,7 +26,7 @@ For building a Poppy right Arm, you will need:
 First for assambly the poppy right arm we can use poppy basic arms [Doc] (https://github.com/poppy-project/Poppy-basic-arms/blob/master/doc/right_arm_assembly_instructions.md)
 
 ## Step 2
-Mount the arm of step 1, motor and FR07 on the 3D printed suppport.
+Mount the arm of step 1, motor MX-28, FR07 and threaded shaft on the 3D printed suppport.
 
 Always align the horn with the motor before assembling them (red circle)
 
@@ -43,5 +43,15 @@ Mount step 2 in the support for table.
 ![step3_1](img/assembly/support_for_table.jpg)
 
 ## Step 4
+
+Now we just need to mount the gripper, for do it, we have 3 possibilities each one gives the robot an additional degree of freedom.
+
+3 degree of freedom
+
+![step4_1](img/assembly/img1.jpg)
+
+For mount each piece we need the OLLO Pulley, you can watch how connect each OLLO Pulley [slow motion](https://vimeo.com/125704291).
+
+![step4_2](img/assembly/img8.jpg)
 
 ## Step 5
