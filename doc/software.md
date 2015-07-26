@@ -21,7 +21,8 @@ As the gripper of the arm can be configured to add different degrees of freedom,
 
 Then you can open this file with the Notepad
 
-*if you write "True", the motor will be disabled
-*if you write "False", the motor will be enabled
+*if you write "True", the motor will be disabled.
+
+*if you write "False", the motor will be enabled.
 
 ![img18](img/assembly/img18.jpg)
