@@ -38,7 +38,9 @@ Always align the horn with the motor before assembling them (red circle)
 
 ## Step 3
 
-Mount 
+Mount step 2 in the support for table.
+
+![step3_1](img/assembly/support_for_table.jpg)
 
 ## Step 4
 
