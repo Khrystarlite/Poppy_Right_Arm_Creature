@@ -30,3 +30,11 @@ Then you can open this file with the Notepad
 Once these parameters are defined, now we can use the creature.
 
 ![img19](img/software/img19.jpg)
+
+
+## Python Server
+
+To control the Poppy_Right_Arm from another software such as Matlab, you must create a server in python that can handle all the motors remotely.
+
+
+## Matlab Control
