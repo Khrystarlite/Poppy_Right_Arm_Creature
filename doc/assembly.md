@@ -29,7 +29,13 @@ First for assambly the poppy right arm we can use poppy basic arms [Doc] (https:
 Mount the arm of step 1, motor and FR07 on the 3D printed suppport.
 
 Always align the horn with the motor before assembling them (red circle)
-![step2](img/assembly/img12.jpg)
+
+![step2_1](img/assembly/img12.jpg)
+
+![step2_2](img/assembly/img13.jpg)
+
+![step2_3](img/assembly/img14.jpg)
+
 ## Step 3
 
 Mount 
