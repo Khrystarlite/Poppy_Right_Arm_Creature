@@ -19,5 +19,14 @@ For building a Poppy right Arm, you will need:
 
 ## Assembling your robot
 
+## Step 1
+
 First for assambly the poppy right arm we can use poppy basic arms [Doc] (https://github.com/poppy-project/Poppy-basic-arms/blob/master/doc/right_arm_assembly_instructions.md)
 
+## Step 2
+
+## Step 2
+
+## Step 2
+
+## Step 2
