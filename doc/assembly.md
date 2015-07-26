@@ -24,8 +24,9 @@ For building a Poppy right Arm, you will need:
 First for assambly the poppy right arm we can use poppy basic arms [Doc] (https://github.com/poppy-project/Poppy-basic-arms/blob/master/doc/right_arm_assembly_instructions.md)
 
 ## Step 2
-Mount the motor on the 3D printed suppport.
+Mount the arm of step 1, motor and FR07 on the 3D printed suppport.
 
+Always align the horn with the motor before assembling them (red circle)
 ![step2](img/assembly/img12.jpg)
 ## Step 2
 
