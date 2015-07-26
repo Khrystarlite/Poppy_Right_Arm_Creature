@@ -14,6 +14,7 @@ For building a Poppy right Arm, you will need:
 * 1x small electronic board (see the [electronic section](electronic.md))
 * 1x [Power Supply 12V - 5A] (http://www.trossenrobotics.com/p/power-supply-12vdc-5a.aspx)
 * the 3D printed parts: [STL] (ingresar pagina web)
+* 1x [threaded shaft](http://www.leroymerlin.fr/v3/p/produits/tige-filetee-en-acier-zingue-long-1-m-x-diam-10-mm-e54322) D:10mm L: min 45 cm
 * 1x [OLLO Pulley-L](http://www.generationrobots.com/en/401871-ollo-pulley-l-gray-5pcs.html?search_query=OLLO&results=23) and their rivets
 * 1x [OLLO Tool](http://www.generationrobots.com/en/401872-ollo-tool.html)
 
@@ -28,8 +29,10 @@ Mount the arm of step 1, motor and FR07 on the 3D printed suppport.
 
 Always align the horn with the motor before assembling them (red circle)
 ![step2](img/assembly/img12.jpg)
-## Step 2
+## Step 3
 
-## Step 2
+Mount 
 
-## Step 2
+## Step 4
+
+## Step 5
