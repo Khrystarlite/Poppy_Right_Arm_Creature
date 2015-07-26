@@ -11,5 +11,13 @@ Then you can install the library as follows
 
 ![img17](img/assembly/img17.jpg)
 
-**If you dont have python and the software necessay already installed, you can follow these [instruccions](https://forum.poppy-project.org/t/poppy-on-windows-all-you-need-to-do/392)**
+*If you dont have python and the software necessay already installed, you can follow these [instruccions](https://forum.poppy-project.org/t/poppy-on-windows-all-you-need-to-do/392)*
 
+## Configuration of *.JSON
+
+As the gripper arm can be configured to add different degrees of freedom, it is necessary to disable / enable the motors to be used. To do this you need to modify the configuration file, located at:
+
+*C:\Python27\Lib\site-packages\poppy_right_arm-1.0.0-py2.7.egg\poppy_right_arm\configuration\poppy_right_arm.json*
+
+
+![img18](img/assembly/img18.jpg)
