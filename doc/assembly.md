@@ -26,7 +26,7 @@ First for assambly the poppy right arm we can use poppy basic arms [Doc] (https:
 ## Step 2
 Mount the motor on the 3D printed suppport.
 
-![step2](img/assembly/img12)
+![step2](img/assembly/img12.jpg)
 ## Step 2
 
 ## Step 2
