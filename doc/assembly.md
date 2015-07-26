@@ -15,6 +15,7 @@ For building a Poppy right Arm, you will need:
 * 1x [Power Supply 12V - 5A] (http://www.trossenrobotics.com/p/power-supply-12vdc-5a.aspx)
 * the 3D printed parts: [STL] (ingresar pagina web)
 * 1x [threaded shaft](http://www.leroymerlin.fr/v3/p/produits/tige-filetee-en-acier-zingue-long-1-m-x-diam-10-mm-e54322) D:10mm L: min 45 cm
+* 4x [Hex Nut](http://www.vis-express.fr/fr/ecrous-inox-a2-hu/19735-ECROU-HEXAGONAL-M10-INOX-DACROMET-8425001057.html) D:10 mm
 * 1x [OLLO Pulley-L](http://www.generationrobots.com/en/401871-ollo-pulley-l-gray-5pcs.html?search_query=OLLO&results=23) and their rivets
 * 1x [OLLO Tool](http://www.generationrobots.com/en/401872-ollo-tool.html)
 
