@@ -27,6 +27,6 @@ Then you can open this file with the Notepad
 
 ![img18](img/software/img18.jpg)
 
-Once these parameters are defined, we can now use the creature.
+Once these parameters are defined, now we can use the creature.
 
 ![img19](img/software/img19.jpg)
