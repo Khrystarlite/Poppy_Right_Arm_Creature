@@ -38,4 +38,10 @@ To control the Poppy_Right_Arm from another software such as Matlab, you must cr
 
 We can to start an HTTP server permitting the remote access of  Poppy_Right_Arm creature, in this [link](https://github.com/poppy-project/pypot/blob/master/samples/notebooks/Accessing%20pypot%20REST%20API%20through%20HTTP%20requests.ipynb) you can find one explanation. Extra [information](https://github.com/poppy-project/pypot/blob/master/REST-APIs.md)
 
+* In construction .... *
+
 ## Matlab Control
+
+With the python server we can do different applications, for example we use matlab to calculate the inverse kinematics, we use the calcule of this [link](https://forum.poppy-project.org/t/cinematique-inverse-bras-de-poppy/1306)
+
+* In construccion ... *
