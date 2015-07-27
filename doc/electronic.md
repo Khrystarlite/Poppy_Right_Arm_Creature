@@ -30,7 +30,7 @@ To this end simply create the following card that can power both type of motors.
 | Resistors 1KOhm 1/4W          |    R2      |     1    |
 | Resistors 430Ohm  1/4W        |    R3      |     1    |
 | Adjuste Regulator LM317       |    U1      |     1    |
-
+| [H/SINK 6396B](http://www.anglia-live.com/products/kw/6396b/506695001_h-sink-to220-to218-25mm-56c-w)| TO-220 radiator |   1  |
 The card design has been made in CircuitMaker, you can open the project in:
 
 [https://workspace.circuitmaker.com/Account/Login?ReturnUrl=%2fProjects%2f5513C8C5-B3C1-4E83-8C02-FD9805562557] (https://workspace.circuitmaker.com/Account/Login?ReturnUrl=%2fProjects%2f5513C8C5-B3C1-4E83-8C02-FD9805562557)
