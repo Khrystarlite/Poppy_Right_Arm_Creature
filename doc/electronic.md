@@ -26,9 +26,9 @@ To this end simply create the following card that can power both type of motors.
 | Molex 53253-0370              |   J5,J6    |     2    | 
 | CONN 2POS 1725656             |    J7      |     1    |
 | CONN PWR JACK  PJ-202AH       |   JACK     |     1    |
-| Resistors 430Ohm 1/4W         |    R1      |     1    |
-| Resistors 200Ohm 1/4W         |    R2      |     1    |
-| Resistors 1KOhm  1/4W         |    R3      |     1    |
+| Resistors 200Ohm 1/4W         |    R1      |     1    |
+| Resistors 1KOhm 1/4W          |    R2      |     1    |
+| Resistors 430Ohm  1/4W        |    R3      |     1    |
 | Adjuste Regulator LM317       |    U1      |     1    |
 
 The card design has been made in CircuitMaker, you can open the project in:
