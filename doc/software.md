@@ -2,7 +2,7 @@
 
 ## Install Creature
 
-you can donwload the creature in this [link](https://github.com/joelortizsosa/Poppy_bras_Creatures).To make the installation (in windows xp,7,8), It's necessary load  the command-line interpreter on Windows and then 
+you can donwload the creature in this [link](https://github.com/joelortizsosa/Poppy_bras_Creatures/archive/master.zip).To make the installation (in windows xp,7,8), It's necessary load  the command-line interpreter on Windows and then 
 you need to be located in the folder of the creature:
 
 ![img16](img/software/img16.jpg)
