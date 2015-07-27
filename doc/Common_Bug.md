@@ -11,7 +11,7 @@ we need to find the file error.py, usually found in:
 
  *C:\Python27\Lib\site-packages\pypot\dynamixel\error.py*
  
-Then we comment the line 52, and we add the sentence "Pass", like the image below:
+Then we comment the line 52, and we add the sentence "pass", like the image below:
 
 
 ![bug](img/software/bug.jpg)
