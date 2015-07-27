@@ -5,7 +5,7 @@ A small bit of electronic hacking is required for now. You need to power the XL-
 The cables between motors have two purposes:
 
 * Distribute alimentation to each motor
-* Convey messages to each motor (ordering them to move or asking them for sensors' values)
+* Convey messages to each motor (ordering them to move or asking them for sensors values)
 
 Thus the alimentation should be added between the USB2AX (that deals with communication aspects) and the motors.
 To this end simply create the following card that can power both type of motors.
