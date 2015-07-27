@@ -10,3 +10,5 @@ error appears, the motors stop working.
 we need to find the file error.py, usually found in:
 
  *C:\Python27\Lib\site-packages\pypot\dynamixel\error.py*
+
+![bug](img/software/bug.jpg)
