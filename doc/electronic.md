@@ -31,9 +31,18 @@ To this end simply create the following card that can power both type of motors.
 | Resistors 1KOhm  1/4W         |    R3      |     1    |
 | Adjuste Regulator LM317       |    U1      |     1    |
 
+The card design has been made in CircuitMaker, you can open the project in:
+
+[https://workspace.circuitmaker.com/Account/Login?ReturnUrl=%2fProjects%2f5513C8C5-B3C1-4E83-8C02-FD9805562557] (https://workspace.circuitmaker.com/Account/Login?ReturnUrl=%2fProjects%2f5513C8C5-B3C1-4E83-8C02-FD9805562557)
+
+But you need an account, you can create an account in this [link](http://www.circuitmaker.com/thank-you/#download), then you have access to project.
+
+If you have your own PCB designer for make circuits, you can follow this schematic:
+
+![schematic](img/electronic/schematic.jpg)
 
 
 
 
-Carbon Film Resistors - Through Hole 33KOhm 1/4W 1200PPM
-3-Terminal Adjustable Regulator, 3-pin TO-220, Pb-Free
+
+
