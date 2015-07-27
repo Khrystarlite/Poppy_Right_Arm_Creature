@@ -14,10 +14,24 @@ To this end simply create the following card that can power both type of motors.
 
 ## Bill of Materials
 
-| Part Name      | Quantity |   Note   |
-| --------------:|:--------:|:--------:|
-| base           |    1     |          |
-| U_horn_to_horn |    1     |          |
-| U_side_to_horn |    1     |          |
-| shift_one_side |    6     |          |
-| pen_holder     |    1     | Optional |
+| Description    | Designator |   LibRef   |   Quantity   |
+| --------------:|:----------:|:--------:|:--------:|
+| CAP CER 0.1UF 50V 20% RADIAL           |    1     |          |          
+| CAP ALUM 1.0UF 50V 20% RADIAL |    1     |          |
+| Cap Aluminum Lytic 1000uF 25V |    1     |          |
+| Standard LEDs |    6     |          |
+| 1N5822     |    1     | Optional |
+| 3P shrouded
+| 4P shrouded
+| 3CKT WTB VERT
+| CONN 2POS
+| CONN PWR JACK
+|
+
+
+
+
+
+
+Carbon Film Resistors - Through Hole 33KOhm 1/4W 1200PPM
+3-Terminal Adjustable Regulator, 3-pin TO-220, Pb-Free
