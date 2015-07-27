@@ -14,20 +14,22 @@ To this end simply create the following card that can power both type of motors.
 
 ## Bill of Materials
 
-| Description    | Designator |   LibRef   |   Quantity   |
-| --------------:|:----------:|:--------:|:--------:|
-| CAP CER 0.1UF 50V 20% RADIAL           |    1     |          |          
-| CAP ALUM 1.0UF 50V 20% RADIAL |    1     |          |
-| Cap Aluminum Lytic 1000uF 25V |    1     |          |
-| Standard LEDs |    6     |          |
-| 1N5822     |    1     | Optional |
-| 3P shrouded
-| 4P shrouded
-| 3CKT WTB VERT
-| CONN 2POS
-| CONN PWR JACK
-|
-
+| Description                   | Designator | Quantity |
+| -----------------------------:|:----------:|:--------:|
+| CAP CER 0.1UF 50V RADIAL      |    C1      |     1    |          
+| CAP ALUM 1.0UF 50V RADIAL     |    C2      |     1    |
+| Cap Aluminum Lytic 1000uF 25V |    C3      |     1    |
+| Standard LED                  |    D1      |     1    |
+| 1N5822                        |    D2      |     1    |
+| Molex 22-03-5035              |   J1,J2    |     2    |
+| Molex 22-03-5045              |   J3,J4    |     2    |
+| Molex 53253-0370              |   J5,J6    |     2    | 
+| CONN 2POS 1725656             |    J7      |     1    |
+| CONN PWR JACK  PJ-202AH       |   JACK     |     1    |
+| Resistors 430Ohm 1/4W         |    R1      |     1    |
+| Resistors 200Ohm 1/4W         |    R2      |     1    |
+| Resistors 1KOhm  1/4W         |    R3      |     1    |
+| Adjuste Regulator LM317       |    U1      |     1    |
 
 
 
