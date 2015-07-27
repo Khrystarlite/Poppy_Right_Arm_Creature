@@ -15,3 +15,6 @@ Then we comment the line 52, and we add the sentence "pass", like the image belo
 
 
 ![bug](img/software/bug.jpg)
+
+
+With this modification we can control the motors without any inconvenience
