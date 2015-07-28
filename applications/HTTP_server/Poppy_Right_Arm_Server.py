@@ -29,9 +29,11 @@ for m in poppy.motors:
     m.torque_limit = 70
 
 time.sleep(0.5)
+# Initialize the angles of the motors
 poppy.r_shoulder_x.goal_position =-20
 poppy.r_m1.goal_position =0
 poppy.r_m4.goal_position =90
+# Configuration of HTTP server
 server = HTTPRobotServer(poppy,host=HOST, port=PORT)
 Thread(target=lambda: server.run(quiet=True, server='wsgiref')).start()
 
