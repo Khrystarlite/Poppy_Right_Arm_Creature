@@ -43,6 +43,7 @@ To execute the server it's necessary load  the command-line interpreter and to b
 
 **python Poppy_Right_Arm_Server.py**
 
+![server_ini](img/softwarre/server_ini.jpg)
 
 ## Matlab Control
 
