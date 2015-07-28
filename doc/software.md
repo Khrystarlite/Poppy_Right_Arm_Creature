@@ -45,6 +45,8 @@ To execute the server it's necessary load  the command-line interpreter and to b
 
 ![server_ini](img/software/server_ini.jpg)
 
+*Note: if you have saved the code with another name, it is necessary to run with that name*
+
 ## Matlab Control
 
 With the python server we can do different applications, for example we used matlab to calculate the inverse kinematics to control the arm, for do it, we use the calcule of this [link](https://forum.poppy-project.org/t/cinematique-inverse-bras-de-poppy/1306)
