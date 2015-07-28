@@ -40,7 +40,8 @@ We can to start an HTTP server permitting the remote access of  Poppy_Right_Arm 
 
 we implement a server, with the ideal setting to control the Poppy_Right_Arm, you can see the code in this [link] (https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/applications/HTTP_server/Poppy_Right_Arm_Server.py)
 To execute the server it's necessary load  the command-line interpreter and to be located in the folder of the code, then you put this code:
-*python Poppy_Right_Arm_Server.py*
+
+**python Poppy_Right_Arm_Server.py**
 
 
 ## Matlab Control
