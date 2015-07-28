@@ -55,6 +55,6 @@ There are many software with [REST API](https://en.wikipedia.org/wiki/Representa
 
 The HTTP protocol implemented in Matlab is very basic, you can download an improved version in this [link](http://www.mathworks.com/matlabcentral/fileexchange/35693-urlread2)
 
-we did a client in matlab that you can download from this [link](https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/applications/Matlab_client/Matlab_client.rar?raw=true)
+We did a client in matlab that you can download from this [link](https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/applications/Matlab_client/Matlab_client.rar?raw=true)
 
 ![matlab_client](img/software/matlab_client.jpg)
