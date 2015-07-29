@@ -72,15 +72,15 @@ To mount some pieces you need the OLLO Pulley, you can watch how connect each OL
 ## Step 6
 To mount each piece you need many rivets,You can look at the following pictures how you can mount it.
 
-![step6_1](img/assembly/rivet1.jpg)
+![step6_1](img/assembly/rivet1.JPG)
 
-![step6_2](img/assembly/rivet2.jpg)
+![step6_2](img/assembly/rivet2.JPG)
 
-![step6_3](img/assembly/rivet3.jpg)
+![step6_3](img/assembly/rivet3.JPG)
 
-![step6_4](img/assembly/rivet4.jpg)
+![step6_4](img/assembly/rivet4.JPG)
 
-![step6_5](img/assembly/rivet5.jpg)
+![step6_5](img/assembly/rivet5.JPG)
 
 
 ![step5_3](img/assembly/img15.jpg)
