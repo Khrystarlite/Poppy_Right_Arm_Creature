@@ -58,3 +58,6 @@ There are many software with [REST API](https://en.wikipedia.org/wiki/Representa
 We did a client in matlab that you can download from this [link](https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/applications/Matlab_client/Matlab_client.rar?raw=true). This client can control the Poppy_Right_Arm using the inverse kinematics, only you have to press the boton "Connect" and then move the sliders of each axe.
 
 ![matlab_client](img/software/matlab_client.jpg)
+
+
+## [Software »]( https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/software.md)
