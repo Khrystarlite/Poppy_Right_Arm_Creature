@@ -20,7 +20,10 @@ For building a Poppy right Arm, you will need:
 * 1x [OLLO Pulley-L](http://www.generationrobots.com/en/401871-ollo-pulley-l-gray-5pcs.html?search_query=OLLO&results=23) and their rivets
 * many [OLLO rivets](http://www.generationrobots.com/en/401870-ollo-rivet-set-ors-10.html)
 * 1x [OLLO Tool](http://www.generationrobots.com/en/401872-ollo-tool.html)
-* [1x 100mm with lever arm suction pad](http://www.ventouses-soufflets.com/ventouses-avec-levier-d-appui/54-ventouse-100mm-avec-levier-d-appui-et-avec-patte-de-fixation-noire.html)
+* 1x[100mm with lever arm suction pad](http://www.ventouses-soufflets.com/ventouses-avec-levier-d-appui/54-ventouse-100mm-avec-levier-d-appui-et-avec-patte-de-fixation-noire.html)
+* 2x M5 nuts
+* 2X M5x20mm screws
+
 
 ## Assembling your robot
 
