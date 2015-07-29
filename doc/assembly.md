@@ -88,4 +88,4 @@ To mount each piece you need many rivets,You can look at the following pictures 
 
 ## Finally ...
 
-<img id="pp" src="img/assembly/pop_all.jpg" width="640" height="640">
+<img id="pp" src="img/assembly/pop_all.jpg" width="380" height="640">
