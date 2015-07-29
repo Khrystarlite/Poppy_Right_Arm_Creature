@@ -9,4 +9,4 @@ Watch PoppyRightArm in action! :
 
 ## Credit
 
-The beginning of this project was inspired from the project https://github.com/RobotsWar/Spidey.
+The beginning of this project was inspired from the project [Poppy Humanoid](https://www.poppy-project.org/?lang=fr). This project was conceived to simulate un upper limb prostheses
