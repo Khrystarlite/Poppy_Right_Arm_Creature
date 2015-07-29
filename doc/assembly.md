@@ -55,7 +55,7 @@ Mount step 2 in the support for table.
 
 Mount the suction pad inside the support for table
 
-![step3_1](img/assembly/base.jpg)
+![step4_1](img/assembly/base.jpg)
 
 ## Step 5
 
@@ -63,14 +63,14 @@ Now we just need to mount the gripper, for do it, we have 3 possibilities each o
 
 3 degree of freedom without taking into account pronation and supination
 
-![step4_1](img/assembly/img1.jpg)
+![step5_1](img/assembly/img1.jpg)
 
-For mount some pieces we need the OLLO Pulley, you can watch how connect each OLLO Pulley [slow motion](https://vimeo.com/125704291).
+To mount some pieces we need the OLLO Pulley, you can watch how connect each OLLO Pulley [slow motion](https://vimeo.com/125704291).
 
-![step4_2](img/assembly/pulley.JPG)
+![step5_2](img/assembly/pulley.JPG)
 
-![step4_3](img/assembly/img15.jpg)
+![step5_3](img/assembly/img15.jpg)
 
-![step4_4](img/assembly/img8.jpg)
+![step5_4](img/assembly/img8.jpg)
 
 
