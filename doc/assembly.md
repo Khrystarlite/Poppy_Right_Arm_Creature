@@ -67,6 +67,8 @@ Now we just need to mount the gripper, for do it, we have 3 possibilities each o
 
 For mount each piece we need the OLLO Pulley, you can watch how connect each OLLO Pulley [slow motion](https://vimeo.com/125704291).
 
+![step4_2](img/assembly/pulley.jpg)
+
 ![step4_2](img/assembly/img15.jpg)
 
 ![step4_3](img/assembly/img8.jpg)
