@@ -4,4 +4,4 @@
 
 
 
-## [STL View »](doc/stl/PoppyRightArm.STL)
+## [STL View »](doc/assembly.md)
