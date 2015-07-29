@@ -25,6 +25,8 @@ For building a Poppy right Arm, you will need:
 * 2X M5x20mm screws
 
 ### Visserie Optional:
+* 1x Wrench Bolt M2.5*6 (200 pcs)
+* 1x Nut M2.5 (400 pcs)
 
 ## Assembling your robot
 
