@@ -53,6 +53,12 @@ Mount step 2 in the support for table.
 
 ## Step 4
 
+Mount the suction pad inside the support for table
+
+![step3_1](img/assembly/base.jpg)
+
+## Step 5
+
 Now we just need to mount the gripper, for do it, we have 3 possibilities each one gives the robot an additional degree of freedom.
 
 3 degree of freedom without taking into account pronation and supination
