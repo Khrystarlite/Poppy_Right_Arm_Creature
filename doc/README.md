@@ -4,4 +4,4 @@
 
 
 
-## [STL View »]( Poppy_Right_Arm_Creature/doc/assembly.md)
+## [STL View »]( https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/assembly.md)
