@@ -94,3 +94,5 @@ To mount each piece you need many rivets,You can look at the following pictures 
 
 <img id="pp" src="img/assembly/pop_all.jpg" width="380" height="640">
 </p>
+
+## [Electronic »]( https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/electronic.md)
