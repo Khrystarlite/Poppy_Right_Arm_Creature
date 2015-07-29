@@ -86,4 +86,8 @@ To mount each piece you need many rivets,You can look at the following pictures 
 
 ![step6_7](img/assembly/img8.jpg)
 
+## Finally ...
+
+![step6_7](img/assembly/pop_all.JPG)
+
 
