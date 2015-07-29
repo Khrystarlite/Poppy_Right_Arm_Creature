@@ -2,7 +2,7 @@
 
 ![Watch PoppyRightArm in action!](https://vimeo.com/134075612)
 
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+[![Little red ridning hood](http://i.imgur.com/134075612.png)](https://vimeo.com/134075612 "Poppy right arm - Click to Watch!")
 
 ## [Assembly »]( https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/assembly.md)
 
