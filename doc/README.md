@@ -4,7 +4,7 @@
 
 <p align="center">
  
-<img src="https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/img/logo.png" title="Perfiles aerodinamicos." width="600" height="450">
+<img src="https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/img/logo.png" title="Perfiles aerodinamicos.">
 <div align="center">Perfiles.</div>
  
 </p>
