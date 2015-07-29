@@ -2,7 +2,7 @@
 
 ![Watch PoppyRightArm in action!](https://vimeo.com/134075612)
 
-[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 ## [Assembly »]( https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/assembly.md)
 
