@@ -1,4 +1,4 @@
-# Poppy Right Arm (WORK IN PROGRESS!)
+# Poppy Right Arm documentation
 
 [Watch PoppyRightArm in action!](https://vimeo.com/134075612)
 
