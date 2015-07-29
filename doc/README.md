@@ -1,6 +1,6 @@
 # Poppy Right Arm documentation
 
-[Watch PoppyRightArm in action!](https://vimeo.com/134075612)
+![Watch PoppyRightArm in action!](https://vimeo.com/134075612)
 
 
 
