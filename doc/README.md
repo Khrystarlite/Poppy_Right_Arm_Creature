@@ -1,12 +1,8 @@
 # Poppy Right Arm documentation
 
-![logo](img/logo.png)
 
 <p align="center">
- 
-<img src="https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/img/logo.png" title="Perfiles aerodinamicos.">
-<div align="center">Perfiles.</div>
- 
+<img src="https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/img/logo.png" title="Poppy_logo.">
 </p>
 
 ## [Assembly »]( https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/assembly.md)
