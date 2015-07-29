@@ -69,8 +69,8 @@ For mount each piece we need the OLLO Pulley, you can watch how connect each OLL
 
 ![step4_2](img/assembly/pulley.jpg)
 
-![step4_2](img/assembly/img15.jpg)
+![step4_3](img/assembly/img15.jpg)
 
-![step4_3](img/assembly/img8.jpg)
+![step4_4](img/assembly/img8.jpg)
 
 
