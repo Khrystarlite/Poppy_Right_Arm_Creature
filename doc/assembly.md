@@ -41,6 +41,8 @@ Always align the horn with the motor before assembling them (red circle)
 
 ![step2_1](img/assembly/img12.jpg)
 
+![step2_1](img/assembly/img0.JPG)
+
 ![step2_2](img/assembly/img13.jpg)
 
 ![step2_3](img/assembly/img14.jpg)
