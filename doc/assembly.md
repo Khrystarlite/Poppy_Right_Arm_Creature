@@ -18,6 +18,7 @@ For building a Poppy right Arm, you will need:
 * 1x [threaded shaft](http://www.leroymerlin.fr/v3/p/produits/tige-filetee-en-acier-zingue-long-1-m-x-diam-10-mm-e54322) D:10mm L: min 45 cm
 * 4x [Hex Nut](http://www.vis-express.fr/fr/ecrous-inox-a2-hu/19735-ECROU-HEXAGONAL-M10-INOX-DACROMET-8425001057.html) D:10 mm
 * 1x [OLLO Pulley-L](http://www.generationrobots.com/en/401871-ollo-pulley-l-gray-5pcs.html?search_query=OLLO&results=23) and their rivets
+* many [OLLO rivets](http://www.generationrobots.com/en/401870-ollo-rivet-set-ors-10.html)
 * 1x [OLLO Tool](http://www.generationrobots.com/en/401872-ollo-tool.html)
 
 ## Assembling your robot
