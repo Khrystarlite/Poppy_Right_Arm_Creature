@@ -17,7 +17,7 @@ Then you can install the library as follows
 
 As the gripper of the arm can be configured to add different degrees of freedom, it is necessary to disable / enable the motors to be used. To do this you need to modify the configuration file, located at:
 
-*Note: change the file. * json in Poppy_Right_Arm not cause bug in any others creatures*
+> *Note: change the file. * json in Poppy_Right_Arm not cause bug in any others creatures*
 
 *C:\Python27\Lib\site-packages\poppy_right_arm-1.0.0-py2.7.egg\poppy_right_arm\configuration\poppy_right_arm.json*
 
