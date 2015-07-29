@@ -60,4 +60,4 @@ We did a client in matlab that you can download from this [link](https://github.
 ![matlab_client](img/software/matlab_client.jpg)
 
 
-## [Software »]( https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/software.md)
+
