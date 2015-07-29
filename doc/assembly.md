@@ -23,6 +23,8 @@ For building a Poppy right Arm, you will need:
 * 1x[100mm with lever arm suction pad](http://www.ventouses-soufflets.com/ventouses-avec-levier-d-appui/54-ventouse-100mm-avec-levier-d-appui-et-avec-patte-de-fixation-noire.html)
 * 2x M5 nuts
 * 2X M5x20mm screws
+* 4x Bolt PHS M2x6 
+* 4x N1 Nut M2 
 
 ### Visserie Optional:
 * 1x Wrench Bolt M2.5*6 (200 pcs)
