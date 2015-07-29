@@ -4,8 +4,8 @@
 <p align="center">
 <img src="https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/img/logo.png" title="Poppy_logo.">
 </p>
+<EMBED SRC="http://www.youtube.com/embed/MsM8SQ-Zyik" HEIGHT=300 WIDTH=400 AUTOSTART=TRUE LOOP=FALSE> 
 
-<video width="425" height="349" src="http://www.youtube.com/embed/MsM8SQ-Zyik" frameborder="0" allowfullscreen></video> 
 ## [Assembly »]( https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/assembly.md)
 
 ## [Common Bug »]( https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/common_Bug.md)
