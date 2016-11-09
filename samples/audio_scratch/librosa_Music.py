@@ -12,4 +12,4 @@ print('Estimated tempo: {:.2f} beats per minute'.format(tempo))
 beat_times = librosa.frames_to_time(beat_frames, sr=sr)
 
 print('Saving output to Lugia.csv')
-librosa.output.times_csv('Lugia.csv', beat_times)
+librosa.output.times_csv('csv/Lugia.csv', beat_times)
