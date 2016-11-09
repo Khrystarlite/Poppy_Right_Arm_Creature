@@ -7,14 +7,6 @@
       ],
       "port": "auto"
     },
-    "my_dxl_controller": {
-      "sync_read": true,
-	  "protocol":2,
-      "attached_motors": [
-        "r_gripper"
-      ],
-      "port": "auto"
-    }
   },
   "motorgroups": {
     "r_arm": [
@@ -23,13 +15,6 @@
       "r_arm_z",
       "r_elbow_y"
     ],
-    "r_gripper": [
-      "r_m1",
-      "r_m2",
-	  "r_m3",
-	  "r_m4",
-      "r_m5"
-    ]	
 	
   },
   "motors": {
