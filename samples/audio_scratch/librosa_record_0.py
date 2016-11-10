@@ -1,7 +1,7 @@
 import numpy as np
 import librosa
 
-filename = "/home/troi/Videos/first.ogg"
+filename = "in_Data/first.ogg"
 y, sr = librosa.load(filename)
 
 tempo, beat_frames = librosa.beat.beat_track(y=y, sr=sr)
