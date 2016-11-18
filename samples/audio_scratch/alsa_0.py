@@ -1,5 +1,9 @@
-import alsaaudio, time, audioop, sys
+from __future__ import print_function
 from tqdm import tqdm
+import alsaaudio, time, audioop, sys, librosa,json
+import numpy as np
+
+
 
 # Open the device in nonblocking capture mode. The last argument could
 # just as well have been zero for blocking mode. Then we could have
@@ -22,7 +26,7 @@ inp.setperiodsize(160)
 
 start = time.time()
 data_table = []
-for i in tqdm(range(11000)):
+for i in tqdm(range(11000),ncols=4):
     # Read data from device
     l,data = inp.read()
     if l:
@@ -31,5 +35,8 @@ for i in tqdm(range(11000)):
        # print audioop.max(data, 2)
     time.sleep(.001)
 
+
+data_num = np.asarray(data_table)
+
 for x in tqdm(range(len(data_table))):
-	print x
+	print(data_table[x])
