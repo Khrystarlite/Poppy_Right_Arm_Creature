@@ -11,10 +11,10 @@ hop_s = win_s // 2
 framesize = hop_s
 
 # set up audio input
-recorder = alsaaudio.PCM(type=alsaaudio.PCM_CAPTURE,device='plughw')
+recorder = alsaaudio.PCM(type=alsaaudio.PCM_CAPTURE)    # device='sysdefault:CARD=C920'
 recorder.setperiodsize(framesize)
 recorder.setrate(samplerate)
-recorder.setformat(alsaaudio.PCM_FORMAT_FLOAT_LE)
+recorder.setformat(alsaaudio.PCM_FORMAT_FLOAT_LE)       # PCM_FORMAT_GSM
 recorder.setchannels(1)
 
 # create aubio pitch detection (first argument is method, "default" is
@@ -28,6 +28,7 @@ pitcher.set_silence(-40)
 print("Starting to listen, press Ctrl+C to stop")
 
 # main loop
+
 while True:
     try:
         # read data from audio input
@@ -43,3 +44,4 @@ while True:
     except KeyboardInterrupt:
         print("Ctrl+C pressed, exiting")
         break
+
