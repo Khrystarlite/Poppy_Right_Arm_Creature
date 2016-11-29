@@ -11,7 +11,7 @@ hop_s = win_s // 2
 framesize = hop_s
 
 # set up audio input
-recorder = alsaaudio.PCM(type=alsaaudio.PCM_CAPTURE)
+recorder = alsaaudio.PCM(type=alsaaudio.PCM_CAPTURE,device='plughw')
 recorder.setperiodsize(framesize)
 recorder.setrate(samplerate)
 recorder.setformat(alsaaudio.PCM_FORMAT_FLOAT_LE)
