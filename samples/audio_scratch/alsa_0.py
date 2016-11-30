@@ -7,13 +7,13 @@ import numpy as np
 
 # Open the device in nonblocking capture mode. The last argument could
 # just as well have been zero for blocking mode. Then we could have
-# left out the sleep call in the bottom of the loop
-inp = alsaaudio.PCM(alsaaudio.PCM_CAPTURE,alsaaudio.PCM_NONBLOCK)
+# left out the sleep call in the bottomvim of the loop
+inp = alsaaudio.PCM(alsaaudio.PCM_CAPTURE,alsaaudio.PCM_NONBLOCK,device='sysdefault:CARD=C920')
 
 # Set attributes: Mono, 8000 Hz, 16 bit little endian samples
 inp.setchannels(1)
 inp.setrate(8000)
-inp.setformat(alsaaudio.PCM_FORMAT_S16_LE)
+inp.setformat(alsaaudio.PCM_FORMAT_FLOAT_LE)
 
 # The period size controls the internal number of frames per period.
 # The significance of this parameter is documented in the ALSA api.
@@ -26,7 +26,7 @@ inp.setperiodsize(160)
 
 start = time.time()
 data_table = []
-for i in tqdm(range(11000),ncols=4):
+for i in tqdm(range(7000),ncols=4):
     # Read data from device
     l,data = inp.read()
     if l:
@@ -38,5 +38,10 @@ for i in tqdm(range(11000),ncols=4):
 
 data_num = np.asarray(data_table)
 
+det = 0
 for x in tqdm(range(len(data_table))):
 	print(data_table[x])
+	if data_table[x] > 0:
+		det+=1
+
+print (det)
