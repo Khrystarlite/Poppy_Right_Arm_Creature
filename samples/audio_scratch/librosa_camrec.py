@@ -4,7 +4,7 @@ import librosa
 import wave
 
 # 1. Get the file path to the included audio example
-filename = "in_Data/tmp.mp3"
+filename = "in_Data/tmp.wav"
 
 # 2. Load the audio as a waveform `y`
 #    Store the sampling rate as `sr`
@@ -18,5 +18,5 @@ print('Estimated tempo: {:.2f} beats per minute'.format(tempo))
 # 4. Convert the frame indices of beat events into timestamps
 beat_times = librosa.frames_to_time(beat_frames, sr=sr)
 
-print('Saving output to beat_times.csv')
+print('Saving output to tmp.csv')
 librosa.output.times_csv('out_Data/tmp.csv', beat_times)
