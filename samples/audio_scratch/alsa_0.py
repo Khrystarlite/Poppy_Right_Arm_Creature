@@ -13,7 +13,7 @@ inp = alsaaudio.PCM(alsaaudio.PCM_CAPTURE,alsaaudio.PCM_NONBLOCK,device='sysdefa
 
 # Set attributes: Mono, 8000 Hz, 16 bit little endian samples
 inp.setchannels(2)
-inp.setrate(96000)
+inp.setrate(88200)
 inp.setformat(alsaaudio.PCM_FORMAT_GSM)
 
 # The period size controls the internal number of frames per period.
@@ -28,11 +28,11 @@ inp.setperiodsize(160)
 
 w.setnchannels(2)
 w.setsampwidth(2)
-w.setframerate(96000)
+w.setframerate(44100)
 
 start = time.time()
 data_table = []
-for i in tqdm(range(7000),ncols=4):
+for i in tqdm(range(10000),ncols=4):
     # Read data from device
     l,data = inp.read()
     if l:
