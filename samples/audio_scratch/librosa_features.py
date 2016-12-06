@@ -7,12 +7,8 @@ import numpy as np
 import wave
 
 
-def nonlin(x,deriv=False):
-    if(deriv==True):
-        return x*(1-x)
-    return 1/(1+np.exp(-x))
 
-filename = "in_Data/tmp.wav"
+filename = "in_Data/rattle.wav"
 
 # 2. Load the audio as a waveform `y`
 #    Store the sampling rate as `sr`
@@ -85,5 +81,6 @@ raw_input("Press Enter to continue...")
 print()
 print("beat_features: ", beat_features)
 raw_input("Press Enter to continue...")
-
 print()
+
+
