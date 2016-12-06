@@ -42,6 +42,8 @@ beat_chroma = librosa.feature.sync(chromagram,
                                    beat_frames,
                                    aggregate=np.median)
 
+
+rmse = librosa.feature.rmse(y)
 # Finally, stack all beat-synchronous features together
 beat_features = np.vstack([beat_chroma, beat_mfcc_delta])
 
@@ -83,3 +85,4 @@ print("beat_features: ", beat_features)
 raw_input("Press Enter to continue...")
 print()
 
+print("rnmse: ", rmse)
