@@ -42,9 +42,11 @@ for i in tqdm(range(10000),ncols=4):
        # print audioop.max(data, 2)
     time.sleep(.001)
 
-
+stop = time.time()
 data_num = np.asarray(data_table)
 
 for x in data_table:
 	print(x)
 
+
+print(stop - start)
